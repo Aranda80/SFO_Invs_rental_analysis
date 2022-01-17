@@ -1,4 +1,4 @@
-![SFO rental market analysis](images/SFO_pic.png)
+![SFO rental market analysis](Images/SFO_pic.png)
 
 # San Francisco rental market analysis 
 
